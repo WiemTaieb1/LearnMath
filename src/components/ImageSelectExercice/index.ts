@@ -1,0 +1,1 @@
+export { ImageSelectExercice } from './ImageSelectExercice'
